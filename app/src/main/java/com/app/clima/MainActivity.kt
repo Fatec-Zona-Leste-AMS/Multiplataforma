@@ -230,6 +230,7 @@ fun WeatherInfoTable(weatherInfo: WeatherInfo) {
     }
 }
 
+
 @Composable
 fun TableRow(label: String, value: String) {
     Row(
